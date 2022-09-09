@@ -17,5 +17,8 @@
     "mongoose": "^6.5.4",
     "netlify-lambda": "^2.0.15",
     "serverless-http": "^3.0.2"
+  },
+  "engines": {
+    "node": "==6.0.0"
   }
 }
